@@ -28,7 +28,7 @@
       "required": false
     },
     "BOT_NAME": {
-      "description": "put A name for your bot",
+      "description": "IPANZ BOT",
       "value": "BYTE-V.lite",
       "required": false
     },
@@ -58,7 +58,7 @@
       "required": true
     },
     "OWNER_NAME": {
-      "desc": "Your Name",
+      "desc": "Ipanz bot",
       "required": false,
       "value": "TalkDrove"
     },
@@ -70,7 +70,7 @@
     "OWNER_NUMBER": {
       "desc": "Your number, don't put '+' and put your area code (e.g., '92')",
       "required": true,
-      "value": "923458017380"
+      "value": "60165820807"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commands",
